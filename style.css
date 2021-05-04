@@ -1,0 +1,13 @@
+button{
+   height: 75px;
+   width: 80px;
+   color:aliceblue;
+   background-color: #15cfb3; 
+}
+body{
+    background: linear-gradient(to bottom right, #d9a55d 0%, #e87d9d 100%);
+}
+
+img{
+    height: 300px;
+}
